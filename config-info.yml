@@ -1,0 +1,12 @@
+# Example configuration options that can be placed in your main SiriProxy config.yml
+
+############################################
+# NOTICE: Modifying these options in this 
+#         file has no effect. You must put 
+#         them in SiriProxy's ~/.siriproxy/config.yml
+############################################
+
+    - name: 'GoogleVoice'
+      path: 'git://github.com/Ponyboy47/siriproxy-googlevoice.git'
+      gusername: 'Google_username' #You do not need to include the '@gmail.com' in your username
+      gpassword: 'Google_password'

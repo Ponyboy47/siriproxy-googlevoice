@@ -1,0 +1,4 @@
+This plugin allows you to send SMS through your Google Voice account and it can also read back your most recently received message on your Google Voice account. (I am working on getting it to read more than just the one most recent message).
+Just say something like, "Send a message/text using Google Voice" or "read me my Google Voice messages" to activate this plugin.
+
+As always be sure and copy everything from the config-info.yml to your config.yml

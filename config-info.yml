@@ -7,6 +7,6 @@
 ############################################
 
     - name: 'GoogleVoice'
-      path: 'git://github.com/Ponyboy47/siriproxy-googlevoice.git'
+      git: 'git://github.com/Ponyboy47/siriproxy-googlevoice.git'
       gusername: 'Google_username' #You do not need to include the '@gmail.com' in your username
       gpassword: 'Google_password'
